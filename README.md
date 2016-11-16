@@ -45,7 +45,7 @@
     - [x] [Stack](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Stack)
     - [x] [Queue](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Queue)
     - [x] [Insertion Sort](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Insertion%20Sort)
-    - [ ] [Binary Search](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Binary%20Search)
+    - [x] [Binary Search](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Binary%20Search)
     - [ ] [Binary Search Tree](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Binary%20Search%20Tree)
     - [ ] [Merge Sort](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Merge%20Sort)
     - [ ] [Boyer Moore String Search](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Boyer-Moore)
