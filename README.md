@@ -5,8 +5,8 @@
 - Forward Swift Courses w/ Paul Hudson
   - [Swift - From Zero to Hero](https://forwardcourses.com/workshops/9)
     - [x] 1
-    - [ ] 2
-    - [ ] 3
+    - [x] 2
+    - [x] 3
     - [ ] 4
     - [ ] 5
     - [ ] 6
