@@ -9,7 +9,7 @@
     - [x] 3
     - [x] 4
     - [x] 5
-    - [ ] 6
+    - [x] 6
 
   - [iOS 10 Crash Course](https://forwardcourses.com/workshops/7)
     - [ ] 1
