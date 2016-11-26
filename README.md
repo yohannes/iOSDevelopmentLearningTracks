@@ -22,7 +22,7 @@
 
   - [Advanced Swift](https://forwardcourses.com/workshops/8)
     - [x] 1: Closure
-    - [ ] 2
+    - [x] 2: Closure
     - [ ] 3
     - [ ] 4
     - [ ] 5
