@@ -23,7 +23,7 @@
   - [Advanced Swift](https://forwardcourses.com/workshops/8)
     - [x] 1: Closure
     - [x] 2: Closure
-    - [ ] 3
+    - [x] 3: Functional Programming
     - [ ] 4
     - [ ] 5
     - [ ] 6
