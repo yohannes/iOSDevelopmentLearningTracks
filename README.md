@@ -23,8 +23,8 @@
   - [Advanced Swift](https://forwardcourses.com/workshops/8)
     - [x] 1: Closure
     - [x] 2: Closure
-    - [x] 3: Functional Programming
-    - [ ] 4
+    - [x] 3: Functional Programming: map(), flatMap(), reduce(), filter()
+    - [x] 4: FP continued & Functional Composition
     - [ ] 5
     - [ ] 6
     - [ ] 7
