@@ -25,7 +25,7 @@
     - [x] 2: Closure
     - [x] 3: Functional Programming: map(), flatMap(), reduce(), filter()
     - [x] 4: FP continued & Functional Composition
-    - [ ] 5
+    - [x] 5: Generics & Pattern Matching
     - [ ] 6
     - [ ] 7
     - [ ] 8
