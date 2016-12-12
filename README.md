@@ -26,7 +26,7 @@
     - [x] 3: Functional Programming: map(), flatMap(), reduce(), filter()
     - [x] 4: FP continued & Functional Composition
     - [x] 5: Generics & Pattern Matching
-    - [ ] 6
+    - [x] 6: Nil Coalescing & Lazy Loading
     - [ ] 7
     - [ ] 8
 
