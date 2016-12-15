@@ -69,6 +69,140 @@
       - [ ] DP: Coin Change
       - [ ] Bit Manipulation: Lonely Integer
 
+- [HackerEarth](https://www.hackerearth.com/)
+
+  - [Basic Programming](https://www.hackerearth.com/practice/basic-programming/)
+
+    - Input/Output
+
+      - [ ] Toggle String
+      - [ ] Palindromic String
+      - [ ] Find Product
+      - [ ] Count Divisors
+      - [ ] Roy & Profile Picture
+      - [ ] Factorial!
+      - [ ] Life, the Universe, and Everything
+      - [ ] Magical Word
+
+    - Complexity Analysis
+
+      - [ ] self
+
+    - Implementation
+
+      - [ ] Jumping Tokens
+      - [ ] The Great Kian
+      - [ ] Digit Problem
+      - [ ] Min-Max
+      - [ ] Print hackerearth
+      - [ ] Little Jhool & Psychic Powers
+      - [ ] Addition Ain't Simple
+      - [ ] Chess Tournament
+      - [ ] Final Destination
+      - [ ] War
+      - [ ] Bob and Bombs
+      - [ ] Samu and Card Game
+      - [ ] Roy's Life Cycle
+      - [ ] Rhezo and Character Frequency
+      - [ ] Cricket Rating
+      - [ ] Perfect Baseline
+      - [ ] Recursive Sums
+      - [ ] Power Failure
+      - [ ] String Sum
+      - [ ] Roy and Cipher Disk
+      - [ ] Little Jhool and Brute force
+      - [ ] Soft Sort
+      - [ ] Little Shino and the Coins
+      - [ ] Passing the Parcel
+      - [ ] Matrix Symmetry
+      - [ ] Mixing Strings
+      - [ ] Acronym
+      - [ ] Palindromic Ciphers
+      - [ ] Blackhat Test
+      - [ ] Special Matrix
+      - [ ] Battle of Words
+      - [ ] Illegible String
+      - [ ] Utkarsh and Distributing Books
+      - [ ] File Statistics
+      - [ ] Strange Addition
+      - [ ] Inverse List
+      - [ ] Sherlock and Dates
+      - [ ] Counter Strike
+      - [ ] Special Sum
+      - [ ] Roy and LEDs
+      - [ ] Sagar's Learning
+      - [ ] The Art of Verification
+      - [ ] Car Names
+      - [ ] Fredo is in a Hurry
+      - [ ] Sagar's Gift
+      - [ ] KillCode's Wish
+      - [ ] Aniruddha's Queue
+      - [ ] Teaching How to Draw
+      - [ ] The Best Internet Browser
+      - [ ] Roy's Life Cycle
+      - [ ] What is the String Made of?
+      - [ ] Game of Coins
+      - [ ] Very Cool Numbers
+      - [ ] Fun at Cake Shop
+      - [ ] 2 Fast 2 Furious
+      - [ ] New Game of Oz
+      - [ ] The Psychic Type
+      - [ ] Furniture Transportation
+      - [ ] Sherlock and Date
+      - [ ] Bear And Chocolate
+      - [ ] Bear and Medals
+      - [ ] Shil and Palindrome
+      - [ ] Complete String
+      - [ ] Palindromic Numbers
+      - [ ] Roy and Texting Robots
+      - [ ] Rahul's Logo
+      - [ ] Mancunian in Palindromia
+      - [ ] Strings
+      - [ ] Prateek and His Friends
+      - [ ] Counting Strings
+      - [ ] Jiva, the Self-Driven Car
+      - [ ] Aldrin Justice
+      - [ ] Ikshu & His Machine Gun
+      - [ ] Miskhi Playing Games
+      - [ ] Little Kuldeep and Contests
+      - [ ] Little Jhool and His Breakup
+      - [ ] The Savior?
+      - [ ] Diamonds
+      - [ ] End Game
+      - [ ] Roy and Trains
+      - [ ] Roy and Coding Contest
+      - [ ] To Take or Not to Take
+      - [ ] Fashion Line
+      - [ ] AABBAAC
+      - [ ] Rubik's Square
+      - [ ] Guess the Permutation
+      - [ ] Sherlock and Special Count
+      - [ ] Survey Analysis
+      - [ ] Explosive Game
+      - [ ] Little Shino and the Tournament
+      - [ ] Indent Ruby
+      - [ ] Confusion
+      - [ ] Number of Interest 2
+      - [ ] Chocolate and Boxes
+      - [ ] Shil and Square Sum
+      - [ ] A Complex Matrix Count
+      - [ ] Roy and Counting Sorted Substrings
+      - [ ] Shil and Survival Game
+      - [ ] Benny and Balls
+      - [ ] Recursive Function
+
+    - Operators
+
+      - [ ] self
+
+    - Bit Manipulation
+
+      - [ ]
+
+    - Recursion
+
+      - [ ] GCD Strings
+      - [ ] Awesome Sequence
 ---
 
 ### Video Tutorials
