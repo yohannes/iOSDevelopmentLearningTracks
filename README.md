@@ -38,11 +38,11 @@
     - [ ] 28: RegEx, Patterns, and Intro to Databases
     - [ ] 29: Bitwise AND
 
-  -[Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview/)
+  - [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview/)
 
     - Data Structures
 
-      - [ ] Arrays: Left Rotation
+      - [x] Arrays: Left Rotation
       - [ ] Strings: Make Anagrams
       - [ ] Hash Tables: Ransom Note
       - [ ] Linked Lists: Detect a Cycle
