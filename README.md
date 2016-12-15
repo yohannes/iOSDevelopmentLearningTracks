@@ -3,40 +3,40 @@
 
 ### Programming Challenges
 
-#### HackerRank
+- [HackerRank](https://www.hackerrank.com)
 
-##### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+ - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-- [x] 0: Hello World
-- [ ] 1: Data Types
-- [ ] 2: Operators
-- [ ] 3: Intro to Conditional Statement
-- [ ] 4: Class vs. Instance
-- [ ] 5: Loops
-- [ ] 6: Let's Review
-- [ ] 7: Arrays
-- [ ] 8: Dictionaries and Maps
-- [ ] 9: Recursion
-- [ ] 10: Binary Numbers
-- [ ] 11: 2D Arrays
-- [ ] 12: Inheritance
-- [ ] 13: Abstract Classes
-- [ ] 14: Scope
-- [ ] 15: Linked List
-- [ ] 16: Exceptions - String to Integer
-- [ ] 17: More Exceptions
-- [ ] 18: Queues and Stacks
-- [ ] 19: Interfaces
-- [ ] 20: Sorting
-- [ ] 21: Generics
-- [ ] 22: Binary Search Trees
-- [ ] 23: BST Level-Order Traversal
-- [ ] 24: More Linked Lists
-- [ ] 25: Running Time and Complexity
-- [ ] 26: Nested Logic
-- [ ] 27: Testing
-- [ ] 28: RegEx, Patterns, and Intro to Databases
-- [ ] 29: Bitwise AND
+ - [x] 0: Hello World
+ - [ ] 1: Data Types
+ - [ ] 2: Operators
+ - [ ] 3: Intro to Conditional Statement
+ - [ ] 4: Class vs. Instance
+ - [ ] 5: Loops
+ - [ ] 6: Let's Review
+ - [ ] 7: Arrays
+ - [ ] 8: Dictionaries and Maps
+ - [ ] 9: Recursion
+ - [ ] 10: Binary Numbers
+ - [ ] 11: 2D Arrays
+ - [ ] 12: Inheritance
+ - [ ] 13: Abstract Classes
+ - [ ] 14: Scope
+ - [ ] 15: Linked List
+ - [ ] 16: Exceptions - String to Integer
+ - [ ] 17: More Exceptions
+ - [ ] 18: Queues and Stacks
+ - [ ] 19: Interfaces
+ - [ ] 20: Sorting
+ - [ ] 21: Generics
+ - [ ] 22: Binary Search Trees
+ - [ ] 23: BST Level - Order Traversal
+ - [ ] 24: More Linked Lists
+ - [ ] 25: Running Time and Complexity
+ - [ ] 26: Nested Logic
+ - [ ] 27: Testing
+ - [ ] 28: RegEx, Patterns, and Intro to Databases
+ - [ ] 29: Bitwise AND
 
 ### Video Tutorials
 - Forward Swift Courses w/ Paul Hudson
