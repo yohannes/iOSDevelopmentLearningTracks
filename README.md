@@ -38,6 +38,37 @@
     - [ ] 28: RegEx, Patterns, and Intro to Databases
     - [ ] 29: Bitwise AND
 
+  -[Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview/)
+
+    - Data Structures
+
+      - [ ] Arrays: Left Rotation
+      - [ ] Strings: Make Anagrams
+      - [ ] Hash Tables: Ransom Note
+      - [ ] Linked Lists: Detect a Cycle
+      - [ ] Stacks: Balanced Brackets
+      - [ ] Queues: A Tale of Two Stacks
+      - [ ] Trees: Is This a Binary Search Tree?
+      - [ ] Heaps: Find the Running Median
+      - [ ] Tries: Contacts
+
+    - Algorithms
+
+      - [ ] Sorting: Bubble Sort
+      - [ ] Sorting: Comparator
+      - [ ] Merge Sort: Counting Inversions
+      - [ ] Binary Search: Ice Cream Parlor
+      - [ ] DFS: Connected Cell in a Grid
+      - [ ] BFS: Shortest Reach in a Graph
+
+    - Techniques / Concepts
+
+      - [ ] Time Complexity: Primality
+      - [ ] Recursion: Fibonacci Numbers
+      - [ ] Recursion: David's Staircase
+      - [ ] DP: Coin Change
+      - [ ] Bit Manipulation: Lonely Integer
+
 ---
 
 ### Video Tutorials
