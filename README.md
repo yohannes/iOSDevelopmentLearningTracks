@@ -8,7 +8,7 @@
   - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
     - [x] 0: Hello World
-    - [ ] 1: Data Types
+    - [x] 1: Data Types
     - [ ] 2: Operators
     - [ ] 3: Intro to Conditional Statement
     - [ ] 4: Class vs. Instance
