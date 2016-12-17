@@ -76,7 +76,7 @@
     - Input/Output
 
       - [x] Toggle String
-      - [ ] Palindromic String
+      - [x] Palindromic String
       - [ ] Find Product
       - [ ] Count Divisors
       - [ ] Roy & Profile Picture
