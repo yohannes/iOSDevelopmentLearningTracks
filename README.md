@@ -80,7 +80,7 @@
       - [ ] Find Product
       - [ ] Count Divisors
       - [ ] Roy & Profile Picture
-      - [ ] Factorial!
+      - [x] Factorial!
       - [ ] Life, the Universe, and Everything
       - [ ] Magical Word
 
