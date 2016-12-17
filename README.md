@@ -75,7 +75,7 @@
 
     - Input/Output
 
-      - [ ] Toggle String
+      - [x] Toggle String
       - [ ] Palindromic String
       - [ ] Find Product
       - [ ] Count Divisors
