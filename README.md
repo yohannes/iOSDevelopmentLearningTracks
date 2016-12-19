@@ -340,7 +340,7 @@
 
     - Hashing
 
-      - [ ] Hash Table
+      - [x] Hash Table
       - [ ] Hash Functions
 
     - Sets
