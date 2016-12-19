@@ -219,9 +219,158 @@
 
       - [ ] GCD Strings
       - [ ] Awesome Sequence
+
+---
+
+### Algorithms & Data Structures Guides
+
+- [Swift Algorithm Club](https://github:com/raywenderlich/swift-algorithm-club)
+
+  - Start From Here:
+
+    - [x] Stack
+    - [x] Queue
+    - [x] Insertion Sort
+    - [x] Binary Search
+    - [ ] Binary Search Tree
+    - [ ] Merge Sort
+    - [ ] Boyer Moore String Search
+
+  - The Algorithms
+
+    - Searching
+
+      - [ ] Linear Search
+      - [x] Binary Search
+      - [ ] Count Occurrences
+      - [ ] Select Minimum/Maximum
+      - [ ] k-th Largest Element
+      - [ ] Selection Sampling
+      - [ ] Union-Find
+
+    - String Search
+
+      - [ ] Brute-Force String Search
+      - [ ] Boyer-Moore
+      - [ ] Knuth-Morris-Pratt
+      - [ ] Rabin-Karp
+      - [ ] Longest Common Subsequence
+
+    - Sorting
+
+      - Basic Sorts
+
+        - [x] Insertion Sort
+        - [ ] Selection Sort
+        - [ ] Shell Sort
+
+      - Fast Sort
+
+        - [ ] Quick Sort
+        - [ ] Merge Sort
+        - [ ] Heap Sort
+
+      - Special Purpose Sort
+
+        - [ ] Counting Sort
+        - [ ] Radix Sort
+        - [ ] Topological Sort
+
+    - Compression
+
+      - [ ] Run-Length Encoding
+      - [ ] Huffman Coding
+
+    - Misc.
+
+      - [ ] Shuffle
+      - [ ] Comb Sort
+
+    - Mathematics
+
+      - [ ] Greatest Common Divisor
+      - [ ] Permutations and Combinations
+      - [ ] Shunting Yard Algorithm
+      - [ ] Karatsuba Multiplication
+      - [ ] Haversine Distance
+
+    - Machine Learning
+
+      - [ ] k-Means Clustering
+      - [ ] k-nearest Neighbors
+      - [ ] Linear Regression
+      - [ ] Logistic Regression
+
+  - Data Structures
+
+    - Variations on Arrays
+
+      - [ ] Array2D
+      - [ ] Bit Set
+      - [ ] Fixed Size Array
+      - [ ] Ordered Array
+
+    - Queues
+
+      - [x] Stack
+      - [x] Queue
+      - [ ] De-queue
+      - [ ] Priority Queue
+      - [ ] Ring Buffer
+
+    - Lists
+
+      - [ ] Linked List
+      - [ ] Skip-List
+
+    - Trees
+
+      - [ ] Tree
+      - [ ] Binary Tree
+      - [ ] Binary Search Tree
+      - [ ] Red-Black Tree
+      - [ ] Splay Tree
+      - [ ] Threaded Binary Tree
+      - [ ] Segment Tree
+      - [ ] kd-Tree
+      - [ ] Heap
+      - [ ] Fibonacci Heap
+      - [ ] Trie
+      - [ ] B-Tree
+
+    - Hashing
+
+      - [ ] Hash Table
+      - [ ] Hash Functions
+
+    - Sets
+
+      - [ ] Bloom Filter
+      - [ ] Hash Set
+      - [ ] Multiset
+      - [ ] Ordered Set
+
+    - Graphs
+
+      - [ ] Graph
+      - [ ] Breadth-First Search
+      - [ ] Depth-First Search
+      - [ ] Shortest Path
+      - [ ] Single-Source Shortest Paths
+      - [ ] Minimum Spanning Tree
+      - [ ] All-Pairs Shortest Paths
+
+  - Puzzles
+
+    - [ ] Two-Sum Problems
+    - [ ] Fizz Buzz
+    - [ ] Monthy Hall Problem
+    - [ ] Finding Palindromes
+
 ---
 
 ### Video Tutorials
+
 - Forward Swift Courses w/ Paul Hudson
   - [Swift - From Zero to Hero](https://forwardcourses:com/workshops/9)
     - [x] 1
@@ -259,13 +408,3 @@
     - [ ] 6
 
 ---
-
-- [Swift Algorithm Club](https://github:com/raywenderlich/swift-algorithm-club)
-  - Start From Here:
-    - [x] [Stack](https://github:com/raywenderlich/swift-algorithm-club/blob/master/Stack)
-    - [x] [Queue](https://github:com/raywenderlich/swift-algorithm-club/blob/master/Queue)
-    - [x] [Insertion Sort](https://github:com/raywenderlich/swift-algorithm-club/blob/master/Insertion%20Sort)
-    - [x] [Binary Search](https://github:com/raywenderlich/swift-algorithm-club/blob/master/Binary%20Search)
-    - [ ] [Binary Search Tree](https://github:com/raywenderlich/swift-algorithm-club/blob/master/Binary%20Search%20Tree)
-    - [ ] [Merge Sort](https://github:com/raywenderlich/swift-algorithm-club/blob/master/Merge%20Sort)
-    - [ ] [Boyer Moore String Search](https://github:com/raywenderlich/swift-algorithm-club/blob/master/Boyer-Moore)
