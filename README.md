@@ -71,19 +71,19 @@
         - [ ] DP: Coin Change
         - [ ] Bit Manipulation: Lonely Integer
 
-    - Algorithms
+  - Algorithms
 
-      - [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
+    - [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
 
-        - [x] Solves Me First
-        - [x] Simple Array Sum
-        - [x] Compare the Triplets
-        - [ ] A Very Big Sum
-        - [ ] Diagonal Difference
-        - [ ] Plus Minus
-        - [ ] Staircase
-        - [ ] Time Conversion
-        - [ ] Circular Array Rotation
+      - [x] Solves Me First
+      - [x] Simple Array Sum
+      - [x] Compare the Triplets
+      - [ ] A Very Big Sum
+      - [ ] Diagonal Difference
+      - [ ] Plus Minus
+      - [ ] Staircase
+      - [ ] Time Conversion
+      - [ ] Circular Array Rotation
 
 - [HackerEarth](https://www.hackerearth.com/)
 
