@@ -5,69 +5,85 @@
 
 - [HackerRank](https://www.hackerrank.com)
 
-  - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+  - Tutorials
 
-    - [x] 0: Hello World
-    - [x] 1: Data Types
-    - [x] 2: Operators
-    - [x] 3: Intro to Conditional Statement
-    - [x] 4: Class vs. Instance
-    - [ ] 5: Loops
-    - [ ] 6: Let's Review
-    - [ ] 7: Arrays
-    - [ ] 8: Dictionaries and Maps
-    - [ ] 9: Recursion
-    - [ ] 10: Binary Numbers
-    - [ ] 11: 2D Arrays
-    - [ ] 12: Inheritance
-    - [ ] 13: Abstract Classes
-    - [ ] 14: Scope
-    - [ ] 15: Linked List
-    - [ ] 16: Exceptions - String to Integer
-    - [ ] 17: More Exceptions
-    - [ ] 18: Queues and Stacks
-    - [ ] 19: Interfaces
-    - [ ] 20: Sorting
-    - [ ] 21: Generics
-    - [ ] 22: Binary Search Trees
-    - [ ] 23: BST Level - Order Traversal
-    - [ ] 24: More Linked Lists
-    - [ ] 25: Running Time and Complexity
-    - [ ] 26: Nested Logic
-    - [ ] 27: Testing
-    - [ ] 28: RegEx, Patterns, and Intro to Databases
-    - [ ] 29: Bitwise AND
+    - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-  - [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview/)
+      - [x] 0: Hello World
+      - [x] 1: Data Types
+      - [x] 2: Operators
+      - [x] 3: Intro to Conditional Statement
+      - [x] 4: Class vs. Instance
+      - [ ] 5: Loops
+      - [ ] 6: Let's Review
+      - [ ] 7: Arrays
+      - [ ] 8: Dictionaries and Maps
+      - [ ] 9: Recursion
+      - [ ] 10: Binary Numbers
+      - [ ] 11: 2D Arrays
+      - [ ] 12: Inheritance
+      - [ ] 13: Abstract Classes
+      - [ ] 14: Scope
+      - [ ] 15: Linked List
+      - [ ] 16: Exceptions - String to Integer
+      - [ ] 17: More Exceptions
+      - [ ] 18: Queues and Stacks
+      - [ ] 19: Interfaces
+      - [ ] 20: Sorting
+      - [ ] 21: Generics
+      - [ ] 22: Binary Search Trees
+      - [ ] 23: BST Level - Order Traversal
+      - [ ] 24: More Linked Lists
+      - [ ] 25: Running Time and Complexity
+      - [ ] 26: Nested Logic
+      - [ ] 27: Testing
+      - [ ] 28: RegEx, Patterns, and Intro to Databases
+      - [ ] 29: Bitwise AND
 
-    - Data Structures
+    - [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview/)
 
-      - [x] Arrays: Left Rotation
-      - [ ] Strings: Make Anagrams
-      - [ ] Hash Tables: Ransom Note
-      - [ ] Linked Lists: Detect a Cycle
-      - [ ] Stacks: Balanced Brackets
-      - [ ] Queues: A Tale of Two Stacks
-      - [ ] Trees: Is This a Binary Search Tree?
-      - [ ] Heaps: Find the Running Median
-      - [ ] Tries: Contacts
+      - Data Structures
+
+        - [x] Arrays: Left Rotation
+        - [ ] Strings: Make Anagrams
+        - [ ] Hash Tables: Ransom Note
+        - [ ] Linked Lists: Detect a Cycle
+        - [ ] Stacks: Balanced Brackets
+        - [ ] Queues: A Tale of Two Stacks
+        - [ ] Trees: Is This a Binary Search Tree?
+        - [ ] Heaps: Find the Running Median
+        - [ ] Tries: Contacts
+
+      - Algorithms
+
+        - [ ] Sorting: Bubble Sort
+        - [ ] Sorting: Comparator
+        - [ ] Merge Sort: Counting Inversions
+        - [ ] Binary Search: Ice Cream Parlor
+        - [ ] DFS: Connected Cell in a Grid
+        - [ ] BFS: Shortest Reach in a Graph
+
+      - Techniques / Concepts
+
+        - [ ] Time Complexity: Primality
+        - [ ] Recursion: Fibonacci Numbers
+        - [ ] Recursion: David's Staircase
+        - [ ] DP: Coin Change
+        - [ ] Bit Manipulation: Lonely Integer
 
     - Algorithms
 
-      - [ ] Sorting: Bubble Sort
-      - [ ] Sorting: Comparator
-      - [ ] Merge Sort: Counting Inversions
-      - [ ] Binary Search: Ice Cream Parlor
-      - [ ] DFS: Connected Cell in a Grid
-      - [ ] BFS: Shortest Reach in a Graph
+      - [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
 
-    - Techniques / Concepts
-
-      - [ ] Time Complexity: Primality
-      - [ ] Recursion: Fibonacci Numbers
-      - [ ] Recursion: David's Staircase
-      - [ ] DP: Coin Change
-      - [ ] Bit Manipulation: Lonely Integer
+        - [x] Solves Me First
+        - [x] Simple Array Sum
+        - [ ] Compare the Triplets
+        - [ ] A Very Big Sum
+        - [ ] Diagonal Difference
+        - [ ] Plus Minus
+        - [ ] Staircase
+        - [ ] Time Conversion
+        - [ ] Circular Array Rotation
 
 - [HackerEarth](https://www.hackerearth.com/)
 
