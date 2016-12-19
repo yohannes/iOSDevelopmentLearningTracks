@@ -11,7 +11,7 @@
     - [x] 1: Data Types
     - [x] 2: Operators
     - [x] 3: Intro to Conditional Statement
-    - [ ] 4: Class vs. Instance
+    - [x] 4: Class vs. Instance
     - [ ] 5: Loops
     - [ ] 6: Let's Review
     - [ ] 7: Arrays
