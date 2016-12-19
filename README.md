@@ -77,7 +77,7 @@
 
       - [x] Toggle String
       - [x] Palindromic String
-      - [ ] Find Product
+      - [x] Find Product
       - [ ] Count Divisors
       - [ ] Roy & Profile Picture
       - [x] Factorial!
