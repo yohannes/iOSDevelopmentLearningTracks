@@ -94,7 +94,7 @@
       - [x] Toggle String
       - [x] Palindromic String
       - [x] Find Product
-      - [ ] Count Divisors
+      - [x] Count Divisors
       - [ ] Roy & Profile Picture
       - [x] Factorial!
       - [ ] Life, the Universe, and Everything
