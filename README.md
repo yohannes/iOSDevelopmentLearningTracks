@@ -95,7 +95,7 @@
       - [x] Palindromic String
       - [x] Find Product
       - [x] Count Divisors
-      - [ ] Roy & Profile Picture
+      - [x] Roy & Profile Picture
       - [x] Factorial!
       - [ ] Life, the Universe, and Everything
       - [ ] Magical Word
