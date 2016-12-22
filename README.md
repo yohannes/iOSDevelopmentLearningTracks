@@ -97,7 +97,7 @@
       - [x] Count Divisors
       - [x] Roy & Profile Picture
       - [x] Factorial!
-      - [ ] Life, the Universe, and Everything
+      - [x] Life, the Universe, and Everything
       - [ ] Magical Word
 
     - Complexity Analysis
