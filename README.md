@@ -15,7 +15,7 @@
       - [x] 3: Intro to Conditional Statement
       - [x] 4: Class vs. Instance
       - [x] 5: Loops
-      - [ ] 6: Let's Review
+      - [x] 6: Let's Review
       - [ ] 7: Arrays
       - [ ] 8: Dictionaries and Maps
       - [ ] 9: Recursion
