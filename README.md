@@ -16,7 +16,7 @@
       - [x] 4: Class vs. Instance
       - [x] 5: Loops
       - [x] 6: Let's Review
-      - [ ] 7: Arrays
+      - [x] 7: Arrays
       - [ ] 8: Dictionaries and Maps
       - [ ] 9: Recursion
       - [ ] 10: Binary Numbers
