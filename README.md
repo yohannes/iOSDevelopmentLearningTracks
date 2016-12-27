@@ -17,7 +17,7 @@
       - [x] 5: Loops
       - [x] 6: Let's Review
       - [x] 7: Arrays
-      - [ ] 8: Dictionaries and Maps
+      - [x] 8: Dictionaries and Maps
       - [ ] 9: Recursion
       - [ ] 10: Binary Numbers
       - [ ] 11: 2D Arrays
