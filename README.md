@@ -78,7 +78,7 @@
       - [x] Solves Me First
       - [x] Simple Array Sum
       - [x] Compare the Triplets
-      - [ ] A Very Big Sum
+      - [x] A Very Big Sum
       - [ ] Diagonal Difference
       - [ ] Plus Minus
       - [ ] Staircase
