@@ -224,7 +224,7 @@
 
 ### Algorithms & Data Structures Guides
 
-- [Swift Algorithm Club](https://github:com/raywenderlich/swift-algorithm-club)
+- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
   - Start From Here:
 
