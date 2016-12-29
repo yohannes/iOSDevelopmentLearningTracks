@@ -397,7 +397,7 @@
     - [x] 5: Generics & Pattern Matching
     - [x] 6: Nil Coalescing & Lazy Loading
     - [x] 7: Error & Operator Overloading
-    - [ ] 8
+    - [x] 8: Labeled Statements & Tuples
 
   - [Protocol Oriented Programming](https://forwardcourses:com/workshops/63)
     - [ ] 1
