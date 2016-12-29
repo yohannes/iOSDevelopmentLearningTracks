@@ -98,7 +98,7 @@
       - [x] Roy & Profile Picture
       - [x] Factorial!
       - [x] Life, the Universe, and Everything
-      - [ ] Magical Word
+      - [x] Magical Word
 
     - Complexity Analysis
 
