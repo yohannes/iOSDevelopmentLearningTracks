@@ -19,7 +19,7 @@
       - [x] 7: Arrays
       - [x] 8: Dictionaries and Maps
       - [x] 9: Recursion
-      - [ ] 10: Binary Numbers
+      - [x] 10: Binary Numbers
       - [ ] 11: 2D Arrays
       - [ ] 12: Inheritance
       - [ ] 13: Abstract Classes
