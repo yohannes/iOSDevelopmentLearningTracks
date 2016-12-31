@@ -102,7 +102,7 @@
 
     - Complexity Analysis
 
-      - [ ] self
+      - [x] self
 
     - Implementation
 
