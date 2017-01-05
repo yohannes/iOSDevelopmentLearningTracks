@@ -240,7 +240,7 @@
 
     - Searching
 
-      - [ ] Linear Search
+      - [x] Linear Search
       - [x] Binary Search
       - [ ] Count Occurrences
       - [ ] Select Minimum/Maximum
