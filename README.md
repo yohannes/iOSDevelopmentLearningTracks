@@ -90,7 +90,8 @@
   - [Basic Programming](https://www.hackerearth.com/practice/basic-programming/)
 
     - Input/Output
-
+      
+      - [x] Tutorial
       - [x] Toggle String
       - [x] Palindromic String
       - [x] Find Product
@@ -105,7 +106,8 @@
       - [x] self
 
     - Implementation
-
+      
+      - [x] Tutorial
       - [ ] Jumping Tokens
       - [ ] The Great Kian
       - [ ] Digit Problem
