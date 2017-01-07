@@ -23,7 +23,7 @@
       - [x] 11: 2D Arrays
       - [x] 12: Inheritance
       - [x] 13: Abstract Classes
-      - [ ] 14: Scope
+      - [x] 14: Scope
       - [ ] 15: Linked List
       - [ ] 16: Exceptions - String to Integer
       - [ ] 17: More Exceptions
