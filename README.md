@@ -263,7 +263,7 @@
       - Basic Sorts
 
         - [x] Insertion Sort
-        - [ ] Selection Sort
+        - [x] Selection Sort
         - [ ] Shell Sort
 
       - Fast Sort
