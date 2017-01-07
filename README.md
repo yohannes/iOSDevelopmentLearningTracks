@@ -244,7 +244,7 @@
 
       - [x] Linear Search
       - [x] Binary Search
-      - [ ] Count Occurrences
+      - [x] Count Occurrences
       - [ ] Select Minimum/Maximum
       - [ ] k-th Largest Element
       - [ ] Selection Sampling
