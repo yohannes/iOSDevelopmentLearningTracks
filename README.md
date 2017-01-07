@@ -21,7 +21,7 @@
       - [x] 9: Recursion
       - [x] 10: Binary Numbers
       - [x] 11: 2D Arrays
-      - [ ] 12: Inheritance
+      - [x] 12: Inheritance
       - [ ] 13: Abstract Classes
       - [ ] 14: Scope
       - [ ] 15: Linked List
