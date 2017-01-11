@@ -403,7 +403,7 @@
 
   - [Protocol Oriented Programming](https://forwardcourses:com/workshops/63)
     - [x] 1: OOP: Abstraction, Encapsulation, Inheritance, & Polymorphism
-    - [ ] 2
+    - [x] 2: A primer on OOP & POP, values types vs. references types
     - [ ] 3
     - [ ] 4
     - [ ] 5
