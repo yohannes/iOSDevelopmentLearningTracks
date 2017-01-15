@@ -405,7 +405,7 @@
     - [x] 1: OOP: Abstraction, Encapsulation, Inheritance, & Polymorphism
     - [x] 2: A primer on OOP & POP, values types vs. references types
     - [x] 3: Comparable, Equatable, CollectionType, IntegerType
-    - [ ] 4: Hashable
+    - [x] 4: CollectionType
     - [ ] 5
     - [ ] 6
 
