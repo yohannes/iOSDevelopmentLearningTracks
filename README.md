@@ -406,7 +406,7 @@
     - [x] 2: A primer on OOP & POP, values types vs. references types
     - [x] 3: Comparable, Equatable, CollectionType, IntegerType
     - [x] 4: CollectionType
-    - [ ] 5
-    - [ ] 6
+    - [x] 5: AssociatedType
+    - [ ] 6: OOP or POP?
 
 ---
