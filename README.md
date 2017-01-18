@@ -407,6 +407,6 @@
     - [x] 3: Comparable, Equatable, CollectionType, IntegerType
     - [x] 4: CollectionType
     - [x] 5: AssociatedType
-    - [ ] 6: OOP or POP?
+    - [x] 6: Migrating from OOP to POP
 
 ---
