@@ -211,7 +211,7 @@
 
     - Operators
 
-      - [ ] self
+      - [x] self
 
     - Bit Manipulation
 
